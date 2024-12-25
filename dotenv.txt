@@ -1,0 +1,5 @@
+GOOGLE_CLIENT_ID=go to google cloud api and create one
+GOOGLE_CLIENT_SECRET=go to google cloud api and create one
+AUTH_SECRET= to generate AUTH_GOOGLE_SECRET, you can use the following command: openssl rand -hex 32
+MONGODB_URI=mongodb://localhost:27017/next-auth-crash-course
+# to generate AUTH_GOOGLE_SECRET, you can use the following command: openssl rand -hex 32
